@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated file1 contents1
+=======
+updated file1 contents3
+>>>>>>> ce0e337424055c6c446b27d9ce527ed111ac466f
